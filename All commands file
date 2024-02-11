@@ -18,4 +18,12 @@ vi .gitignore
 git reset v1 filename
 git rm file_Name
 git hist
-git carfile 
+git catfile 
+git catfile -p V/N --> to see the delta part.
+git branch -branch_Name
+git checkout
+git checkout branch_Name
+git merge branch_Name
+git branch -h
+git branch -d
+git branch --show-current
