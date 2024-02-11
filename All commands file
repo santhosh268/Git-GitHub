@@ -15,4 +15,7 @@ git show HEAD~1
 git diff v1 v2
 touch .gitignore
 vi .gitignore
-git reset 
+git reset v1 filename
+git rm file_Name
+git hist
+git carfile 
