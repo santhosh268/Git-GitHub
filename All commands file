@@ -1,1 +1,18 @@
-t
+Three are three areas in Github:
+
+1)Working Area
+2)Stagging Area
+3)Commit Area
+
+Commands:
+git init
+git ls-files
+git show
+git commit
+git log --oneline
+git restore --staged file_Name
+git show HEAD~1
+git diff v1 v2
+touch .gitignore
+vi .gitignore
+git reset 
